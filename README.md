@@ -127,7 +127,3 @@ Access Swagger documentation at: `http://localhost:5000/api-docs`
 
 **Megha Shyam**
 - GitHub: [megha445](https://github.com/megha445)
-
-## 📄 License
-
-This project is open source and available under the MIT License.
